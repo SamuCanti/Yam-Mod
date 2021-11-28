@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-242,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Yam Left Two"
+		},
+		{
+			"offsets": [
+				-216,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Yam Down Two"
+		},
+		{
+			"offsets": [
+				-179,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Yam Up Two"
+		},
+		{
+			"offsets": [
+				-211,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Yam Right Two"
+		},
+		{
+			"offsets": [
+				-207,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Yam Idle Two"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YamTwo",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "yamtwo",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		150,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

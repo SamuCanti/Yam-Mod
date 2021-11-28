@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YamTwo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Yam Down Two0000" x="0" y="0" width="434" height="414"/>
+	<SubTexture name="Yam Down Two0001" x="0" y="0" width="434" height="414"/>
+	<SubTexture name="Yam Down Two0002" x="434" y="0" width="424" height="357" frameX="-10" frameY="-54" frameWidth="434" frameHeight="414"/>
+	<SubTexture name="Yam Down Two0003" x="434" y="0" width="424" height="357" frameX="-10" frameY="-54" frameWidth="434" frameHeight="414"/>
+	<SubTexture name="Yam Idle Two0000" x="858" y="0" width="304" height="410" frameX="0" frameY="-6" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0001" x="858" y="0" width="304" height="410" frameX="0" frameY="-6" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0002" x="1162" y="0" width="301" height="403" frameX="-3" frameY="-15" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0003" x="1162" y="0" width="301" height="403" frameX="-3" frameY="-15" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0004" x="1463" y="0" width="302" height="357" frameX="-8" frameY="-62" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0005" x="1463" y="0" width="302" height="357" frameX="-8" frameY="-62" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0006" x="0" y="414" width="306" height="340" frameX="-4" frameY="-78" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0007" x="0" y="414" width="306" height="340" frameX="-4" frameY="-78" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0008" x="306" y="414" width="312" height="379" frameX="-3" frameY="-40" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0009" x="306" y="414" width="312" height="379" frameX="-3" frameY="-40" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0010" x="618" y="414" width="291" height="419" frameX="-9" frameY="0" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0011" x="618" y="414" width="291" height="419" frameX="-9" frameY="0" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0012" x="858" y="0" width="304" height="410" frameX="0" frameY="-6" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Idle Two0013" x="858" y="0" width="304" height="410" frameX="0" frameY="-6" frameWidth="315" frameHeight="419"/>
+	<SubTexture name="Yam Left Two0000" x="909" y="414" width="345" height="403"/>
+	<SubTexture name="Yam Left Two0001" x="909" y="414" width="345" height="403"/>
+	<SubTexture name="Yam Left Two0002" x="1254" y="414" width="330" height="385" frameX="-15" frameY="-18" frameWidth="345" frameHeight="403"/>
+	<SubTexture name="Yam Left Two0003" x="1254" y="414" width="330" height="385" frameX="-15" frameY="-18" frameWidth="345" frameHeight="403"/>
+	<SubTexture name="Yam Right Two0000" x="1584" y="414" width="312" height="408" frameX="0" frameY="0" frameWidth="312" frameHeight="410"/>
+	<SubTexture name="Yam Right Two0001" x="1584" y="414" width="312" height="408" frameX="0" frameY="0" frameWidth="312" frameHeight="410"/>
+	<SubTexture name="Yam Right Two0002" x="0" y="833" width="303" height="392" frameX="-3" frameY="-18" frameWidth="312" frameHeight="410"/>
+	<SubTexture name="Yam Right Two0003" x="0" y="833" width="303" height="392" frameX="-3" frameY="-18" frameWidth="312" frameHeight="410"/>
+	<SubTexture name="Yam Up Two0000" x="303" y="833" width="310" height="401" frameX="-9" frameY="0" frameWidth="319" frameHeight="401"/>
+	<SubTexture name="Yam Up Two0001" x="303" y="833" width="310" height="401" frameX="-9" frameY="0" frameWidth="319" frameHeight="401"/>
+	<SubTexture name="Yam Up Two0002" x="613" y="833" width="318" height="388" frameX="0" frameY="-13" frameWidth="319" frameHeight="401"/>
+	<SubTexture name="Yam Up Two0003" x="613" y="833" width="318" height="388" frameX="0" frameY="-13" frameWidth="319" frameHeight="401"/>
+	<SubTexture name="Yam Up Two0004" x="931" y="833" width="0" height="0" frameX="-169" frameY="-198" frameWidth="319" frameHeight="401"/>
+</TextureAtlas>
